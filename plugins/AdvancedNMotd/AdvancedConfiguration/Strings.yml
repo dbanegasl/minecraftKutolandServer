@@ -77,21 +77,23 @@ Motd:
     #(if you have more than 1 line, random will be selected
     #but it will be on the same position as a line in LineTwo section)
     LineOne:
-        - "&4&lKutoLand, &f&lServer Abierto"
+        - "&f&l《《&4&lKutoLand, &f&lServer Abierto》》"
     
     #What should be displayed on line 2 of your Motd:
     #(if you have more than 1 line, random will be selected
     #but it will be on the same position as a line in LineOne section)
     LineTwo:
-        - "&7&lPasatela Bien y diviertete :3"
+        - "&f&l《《&7&lPasatela Bien y diviertete :3&f&l》》"
     
 HoverBox:
 
     #What text should be displayed when you hover over a player amount text:
     HoverText:
-        - "&c&lKutoLand &r&f&lInfo"
+        - "&c&lKutoLand"
         - "&7&m----------"
         - "&b&lOnline: &r&f&l%online%"
+        - "&7&m----------"
+        - "&d&lInstagram: &f&lkutoplaygames"
 Version:
     
     #What text should be displayed instead of player amount text:
