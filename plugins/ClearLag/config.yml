@@ -199,7 +199,7 @@ live-time:
 #This option disallows the placement of too many tnt-minecarts
 # -- 'radius' is the radius clearlag will check for TNT-Minecarts
 tnt-minecart:
-  enabled: false
+  enabled: true
   max: 2
   radius: 6
 
@@ -213,7 +213,7 @@ dispenser-reducer:
 # -- 'check-radius' is the radius clearlag will check for primed TNT
 # -- 'max-primed' is the max primed TNT within the radius allowed before clearlag begins to remove
 tnt-reducer:
-  enabled: false
+  enabled: true
   check-radius: 5
   max-primed: 3
 
@@ -354,9 +354,9 @@ item-merger:
 # -- 'remove-entities' What entities SHOULD be removed during removal
 auto-removal:
   enabled: true
-  broadcast-message: '&6[ClearLag] &aRemoved +RemoveAmount Entities!'
+  broadcast-message: '&c[&4Limpiador&c] &aEliminados +RemoveAmount items!'
   broadcast-removal: true
-  autoremoval-interval: 460
+  autoremoval-interval: 900
   world-filter:
   # - this_world <-This world will be ignored during removal!
   boat: false
@@ -376,8 +376,6 @@ auto-removal:
     - Snowball
     - Egg
     - Fireball
-    - Boat !isMounted
-    - Minecart !isMounted
     - MINECART_TNT
   # - cow <- This mob-type will be REMOVED during removal!
   # - MINECART_MOB_SPAWNER
@@ -385,8 +383,8 @@ auto-removal:
   # - Minecart !isMounted <- This entity will be REMOVED if it's NOT mounted
   # - Wolf !hasName <- This entity will be REMOVED if it doesn't have a name
   warnings:
-    - 'time:400 msg:&4[ClearLag] &cWarning Ground items will be removed in &7+remaining &cseconds!'
-    - 'time:440 msg:&4[ClearLag] &cWarning Ground items will be removed in &7+remaining &cseconds!'
+    - 'time:840 msg:&c[&4Limpiador&c] &cCuidado! Los items en el suelo desapareceran en &7+remaining &csegundos!'
+    - 'time:880 msg:&c[&4Limpiador&c] &cCuidado! Los items en el suelo desapareceran en &7+remaining &csegundos!'
 
 #What should be removed during /lagg clear, nearly the same thing as auto-removal
 command-remove:
