@@ -1,0 +1,28 @@
+lastAccountName: El_GatoCosmico
+timestamps:
+  login: 1612893440475
+  lastteleport: 1612477401754
+  logout: 1612893448110
+ipAddress: 190.10.170.7
+lastlocation:
+  world: world
+  x: 15.686388972359882
+  y: 64.0
+  z: 16.4405838954046
+  yaw: 156.30003
+  pitch: 9.300005
+logoutlocation:
+  world: KutoLand
+  x: 2739.9119370641447
+  y: 64.0
+  z: -1199.495559448963
+  yaw: 15.271734
+  pitch: 28.349995
+homes:
+  home:
+    world: KutoLand
+    x: 2728.299252206664
+    y: 64.0
+    z: -1165.8390656649217
+    yaw: 67.485504
+    pitch: 13.6499605

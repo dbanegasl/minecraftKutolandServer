@@ -1,0 +1,28 @@
+lastAccountName: SugaredCandy864
+timestamps:
+  login: 1610634926620
+  logout: 1610635633367
+  lastteleport: 1610500930541
+ipAddress: 187.171.155.124
+lastlocation:
+  world: world
+  x: 16.0
+  y: 64.0
+  z: 15.0
+  yaw: -49.20002
+  pitch: 22.64999
+logoutlocation:
+  world: world
+  x: 14.8090403296185
+  y: 64.0
+  z: 16.7604924771469
+  yaw: 185.85132
+  pitch: 6.1499915
+homes:
+  home:
+    world: KutoLand
+    x: -183.5715974723789
+    y: 64.0
+    z: 485.4573143428489
+    yaw: -333.09488
+    pitch: 18.329037

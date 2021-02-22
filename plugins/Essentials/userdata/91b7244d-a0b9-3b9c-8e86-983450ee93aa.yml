@@ -1,0 +1,28 @@
+lastAccountName: tundra949
+timestamps:
+  login: 1613669906189
+  lastteleport: 1613425919315
+  logout: 1613670006288
+ipAddress: 187.147.55.177
+lastlocation:
+  world: KutoLand
+  x: -464.42050294769854
+  y: 63.0
+  z: 2783.0085145448315
+  yaw: 180.83032
+  pitch: 4.3870587
+logoutlocation:
+  world: KutoLand
+  x: -530.8328013494603
+  y: 68.0
+  z: 2448.9091007714287
+  yaw: 28.51894
+  pitch: 80.2499
+homes:
+  home:
+    world: KutoLand
+    x: -377.9016303777041
+    y: 66.0
+    z: 2657.8831074854497
+    yaw: 123.819824
+    pitch: 17.850012

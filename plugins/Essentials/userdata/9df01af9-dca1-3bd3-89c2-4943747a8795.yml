@@ -1,0 +1,28 @@
+lastAccountName: marcelomonge06
+timestamps:
+  login: 1611184427505
+  logout: 1611190732212
+  lastteleport: 1611190712292
+ipAddress: 179.7.48.70
+lastlocation:
+  world: KutoLand
+  x: 591.8225009250754
+  y: 60.526671009505854
+  z: 214.66604739230831
+  yaw: -93.654205
+  pitch: 44.85008
+logoutlocation:
+  world: world
+  x: 15.214625520435341
+  y: 64.0
+  z: 17.311280810239538
+  yaw: 103.2
+  pitch: 35.100006
+homes:
+  home:
+    world: KutoLand
+    x: 574.222479517753
+    y: 193.0
+    z: 213.8288869236996
+    yaw: -83.30493
+    pitch: 24.750334

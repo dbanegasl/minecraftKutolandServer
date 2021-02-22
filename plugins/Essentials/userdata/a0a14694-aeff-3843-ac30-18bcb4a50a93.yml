@@ -1,0 +1,28 @@
+lastAccountName: Belin
+timestamps:
+  login: 1610829877208
+  lastteleport: 1610483382047
+  logout: 1610829943153
+ipAddress: 187.190.156.90
+lastlocation:
+  world: KutoLand
+  x: 607.6999999880791
+  y: 18.0
+  z: 395.69999998807907
+  yaw: 209.77583
+  pitch: 39.68402
+logoutlocation:
+  world: KutoLand
+  x: 328.6539951095706
+  y: 71.0
+  z: 292.6370398392571
+  yaw: 58.831085
+  pitch: -16.239935
+homes:
+  home:
+    world: KutoLand
+    x: 597.6813057700753
+    y: 14.0
+    z: 400.22739641389285
+    yaw: 130.95369
+    pitch: 25.742256

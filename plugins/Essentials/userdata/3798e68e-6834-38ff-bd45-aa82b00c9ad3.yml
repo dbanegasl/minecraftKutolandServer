@@ -1,0 +1,28 @@
+lastAccountName: VividestBore
+timestamps:
+  login: 1613953744611
+  logout: 1613966470330
+  lastteleport: 1613955235089
+ipAddress: 189.219.112.50
+lastlocation:
+  world: KutoLand
+  x: 23268.76249998808
+  y: 191.0
+  z: 25031.92063343049
+  yaw: -88.84766
+  pitch: -26.850384
+logoutlocation:
+  world: KutoLand
+  x: 23296.340499528727
+  y: 112.51189112846555
+  z: 25031.17538263843
+  yaw: -296.98163
+  pitch: -90.0
+homes:
+  home:
+    world: KutoLand
+    x: 23169.7716270224
+    y: 66.0
+    z: 24977.066043290575
+    yaw: -78.23327
+    pitch: 24.171183

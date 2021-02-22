@@ -1,0 +1,28 @@
+lastAccountName: hersusilex
+timestamps:
+  login: 1612591692175
+  lastteleport: 1610502725188
+  logout: 1612591913521
+ipAddress: 138.122.111.219
+lastlocation:
+  world: world
+  x: 9.300000011920929
+  y: 64.0
+  z: 13.11008198066172
+  yaw: 270.54752
+  pitch: 5.1691356
+homes:
+  home:
+    world: KutoLand
+    x: -3938.3287639755786
+    y: 64.0
+    z: 2377.5922147318224
+    yaw: -132.73749
+    pitch: 28.14004
+logoutlocation:
+  world: KutoLand
+  x: -4258.122863643699
+  y: 77.0
+  z: 3037.2267722089905
+  yaw: 35.784607
+  pitch: 65.92538

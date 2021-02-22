@@ -1,0 +1,28 @@
+lastAccountName: MrArenoso
+timestamps:
+  login: 1611111759810
+  logout: 1611113336034
+  lastteleport: 1611110549750
+ipAddress: 189.252.186.155
+lastlocation:
+  world: KutoLand
+  x: 315.5621251811812
+  y: 64.0
+  z: 95.35034073499537
+  yaw: 65.063835
+  pitch: 15.366703
+logoutlocation:
+  world: KutoLand
+  x: 247.66657219844947
+  y: 75.0
+  z: 207.77166463280247
+  yaw: 358.83542
+  pitch: 90.0
+homes:
+  home:
+    world: KutoLand
+    x: 508.21256247639485
+    y: 63.0
+    z: -171.9661927257409
+    yaw: -171.68564
+    pitch: 41.979923

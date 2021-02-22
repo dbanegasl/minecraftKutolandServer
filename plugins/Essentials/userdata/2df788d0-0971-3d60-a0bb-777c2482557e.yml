@@ -1,0 +1,28 @@
+lastAccountName: riusplay123
+timestamps:
+  login: 1611180043951
+  logout: 1611180099542
+  lastteleport: 1610845386638
+ipAddress: 181.64.109.22
+lastlocation:
+  world: world
+  x: 17.21347227231965
+  y: 64.0
+  z: 13.97176649201037
+  yaw: 236.85014
+  pitch: 1.1999407
+logoutlocation:
+  world: world_nether
+  x: 25.778036715871234
+  y: 58.0
+  z: 59.30000001192093
+  yaw: 108.65073
+  pitch: -74.2498
+homes:
+  home:
+    world: KutoLand
+    x: 367.5953396337843
+    y: 103.0
+    z: 291.69996175774656
+    yaw: 264.02808
+    pitch: 43.7998

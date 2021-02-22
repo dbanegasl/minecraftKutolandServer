@@ -1,0 +1,28 @@
+lastAccountName: josefortnite07
+timestamps:
+  login: 1613964963635
+  lastteleport: 1613969810963
+  logout: 1613970067099
+ipAddress: 45.70.237.174
+lastlocation:
+  world: KutoLand
+  x: -411.9245568897813
+  y: 64.0
+  z: 565.4958705856538
+  yaw: 36.627586
+  pitch: 7.609462
+logoutlocation:
+  world: KutoLand
+  x: 23471.336354602972
+  y: 50.0
+  z: 25093.967604926198
+  yaw: 258.13962
+  pitch: -2.1724527
+homes:
+  home:
+    world: KutoLand
+    x: -430.4537818607305
+    y: 64.0
+    z: 599.696357089185
+    yaw: -164.6524
+    pitch: 3.8117542

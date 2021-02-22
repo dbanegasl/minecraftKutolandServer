@@ -1,0 +1,19 @@
+lastAccountName: Antonio
+timestamps:
+  login: 1611984340779
+  logout: 1611984348608
+ipAddress: 181.115.248.255
+lastlocation:
+  world: world
+  x: 16.49790374890457
+  y: 65.0
+  z: 15.291605028857553
+  yaw: -0.11795002
+  pitch: 4.0496697
+logoutlocation:
+  world: world
+  x: 16.5
+  y: 64.0
+  z: 15.5
+  yaw: 5.4854236
+  pitch: 3.1646671

@@ -1,0 +1,28 @@
+lastAccountName: Henry_187
+timestamps:
+  login: 1612400797176
+  lastteleport: 1612400856743
+  logout: 1612400916593
+ipAddress: 45.188.229.36
+lastlocation:
+  world: KutoLand
+  x: 250.92336630167236
+  y: 67.0
+  z: 2605.0767670080286
+  yaw: 300.2084
+  pitch: 12.811268
+logoutlocation:
+  world: KutoLand
+  x: 244.64258140001763
+  y: 67.0
+  z: 2601.046095002295
+  yaw: 100.026245
+  pitch: 24.739046
+homes:
+  home:
+    world: KutoLand
+    x: 247.60737501460304
+    y: 67.0
+    z: 2603.2295033103164
+    yaw: 355.46017
+    pitch: 24.221928

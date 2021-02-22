@@ -1,0 +1,28 @@
+lastAccountName: Berlin
+timestamps:
+  login: 1612567558860
+  logout: 1612567769908
+  lastteleport: 1612463340070
+ipAddress: 189.203.132.52
+lastlocation:
+  world: world
+  x: 16.0
+  y: 64.0
+  z: 15.0
+  yaw: 1.4019916
+  pitch: -0.3115537
+logoutlocation:
+  world: KutoLand
+  x: 328.75366327620947
+  y: 64.0
+  z: -1837.8377639196674
+  yaw: -273.66147
+  pitch: 17.563679
+homes:
+  home:
+    world: KutoLand
+    x: 322.8191398092151
+    y: 65.0
+    z: -1863.766651614393
+    yaw: -15.226074
+    pitch: 15.850159

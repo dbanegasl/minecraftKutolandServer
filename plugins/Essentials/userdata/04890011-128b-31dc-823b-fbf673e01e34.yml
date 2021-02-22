@@ -1,0 +1,28 @@
+lastAccountName: DiosHitachii
+timestamps:
+  login: 1610910772720
+  logout: 1610914762604
+  lastteleport: 1610914496760
+ipAddress: 181.54.51.134
+lastlocation:
+  world: world
+  x: 16.5
+  y: 64.0
+  z: 15.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: KutoLand
+  x: 596.8149981319033
+  y: 28.0
+  z: 402.30000001192093
+  yaw: -219.10144
+  pitch: 1.3005211
+homes:
+  home:
+    world: world_the_end
+    x: 1959.300000011921
+    y: 62.200000047683716
+    z: 1649.304841516398
+    yaw: 354.14746
+    pitch: 37.200386

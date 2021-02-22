@@ -1,0 +1,28 @@
+lastAccountName: KrousS
+timestamps:
+  login: 1612401873803
+  logout: 1612401918468
+  lastteleport: 1611103406524
+ipAddress: 190.238.110.24
+lastlocation:
+  world: world_nether
+  x: -33.17816880230881
+  y: 48.0
+  z: 8.716369744500101
+  yaw: 1.9188843
+  pitch: 44.07709
+logoutlocation:
+  world: KutoLand
+  x: 5984.821553421664
+  y: 74.0
+  z: -17369.30000001192
+  yaw: 168.46523
+  pitch: 90.0
+homes:
+  home:
+    world: KutoLand
+    x: 5987.310606453865
+    y: 73.0
+    z: -17372.1671113012
+    yaw: 81.90674
+    pitch: 24.483458

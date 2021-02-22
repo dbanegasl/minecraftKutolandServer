@@ -1,0 +1,28 @@
+lastAccountName: Frankaluzo
+timestamps:
+  login: 1613347841854
+  logout: 1613349353624
+  lastteleport: 1613348071247
+ipAddress: 190.237.242.5
+lastlocation:
+  world: world
+  x: 3.6916539008154015
+  y: 63.09375
+  z: 19.75565831032011
+  yaw: 303.16772
+  pitch: 23.938433
+logoutlocation:
+  world: KutoLand
+  x: -488.9799337062726
+  y: 31.0
+  z: 2702.18997899293
+  yaw: 73.66739
+  pitch: 7.7158165
+homes:
+  home:
+    world: KutoLand
+    x: -539.5839642057103
+    y: 66.0
+    z: 2449.8111085302994
+    yaw: 57.251
+    pitch: 4.3932414

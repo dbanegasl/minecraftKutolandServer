@@ -1,0 +1,28 @@
+lastAccountName: Jordixhito
+timestamps:
+  login: 1613852953939
+  logout: 1613852960338
+  lastteleport: 1613060800601
+ipAddress: 191.100.206.185
+lastlocation:
+  world: KutoLand
+  x: -341.41732464454066
+  y: 62.0
+  z: 869.6208768095858
+  yaw: 206.41399
+  pitch: 16.799921
+logoutlocation:
+  world: KutoLand
+  x: 136.69999998807907
+  y: 71.0
+  z: 452.30000001192093
+  yaw: -220.06122
+  pitch: -1.2000158
+homes:
+  home:
+    world: KutoLand
+    x: 117.69999998807907
+    y: 70.0
+    z: 452.30100532702085
+    yaw: 270.44214
+    pitch: 7.800044

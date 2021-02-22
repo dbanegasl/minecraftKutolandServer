@@ -1,0 +1,28 @@
+lastAccountName: KioDj
+timestamps:
+  login: 1613938295999
+  logout: 1613942753286
+  lastteleport: 1613942161668
+ipAddress: 94.58.156.63
+lastlocation:
+  world: world
+  x: 16.0
+  y: 64.0
+  z: 15.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: KutoLand
+  x: 123.30000001192093
+  y: 63.40437599579859
+  z: 1233.677080911025
+  yaw: 66.412384
+  pitch: 48.449886
+homes:
+  home:
+    world: KutoLand
+    x: 124.41525800385048
+    y: 64.0
+    z: 1236.4810107803435
+    yaw: 66.11377
+    pitch: 29.100155

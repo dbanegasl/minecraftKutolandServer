@@ -1,0 +1,28 @@
+lastAccountName: Eduardo
+timestamps:
+  login: 1613804281092
+  logout: 1613804978393
+  lastteleport: 1613804192149
+ipAddress: 187.189.187.80
+lastlocation:
+  world: KutoLand
+  x: 1035.841540743038
+  y: 68.0
+  z: -676.4720246640235
+  yaw: 74.059204
+  pitch: 15.899933
+logoutlocation:
+  world: KutoLand
+  x: 23300.781026691286
+  y: 65.0
+  z: 25521.352148260088
+  yaw: -278.2021
+  pitch: 90.0
+homes:
+  home:
+    world: KutoLand
+    x: 23295.845669771352
+    y: 64.0
+    z: 25529.659031246058
+    yaw: 96.74719
+    pitch: 44.99982

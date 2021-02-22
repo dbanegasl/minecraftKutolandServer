@@ -1,0 +1,28 @@
+lastAccountName: safronjos
+timestamps:
+  login: 1613149024866
+  lastteleport: 1613153016567
+  logout: 1613153039683
+ipAddress: 186.46.201.30
+lastlocation:
+  world: KutoLand
+  x: -541.3000000119209
+  y: 56.0
+  z: 2455.671882976743
+  yaw: -70.49977
+  pitch: 4.500196
+logoutlocation:
+  world: KutoLand
+  x: -540.7241014733953
+  y: 59.0
+  z: 2457.2009765903877
+  yaw: -281.2541
+  pitch: 12.750002
+homes:
+  home:
+    world: KutoLand
+    x: -515.6562308176844
+    y: 65.0
+    z: 2432.7440138630545
+    yaw: -258.15393
+    pitch: 24.300032

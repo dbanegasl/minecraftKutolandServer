@@ -1,0 +1,28 @@
+lastAccountName: Migo99GamerYT
+timestamps:
+  login: 1610998937871
+  logout: 1610999899420
+  lastteleport: 1610999889016
+ipAddress: 189.215.209.218
+lastlocation:
+  world: KutoLand
+  x: 367.7671269910511
+  y: 97.0
+  z: 273.5455476577019
+  yaw: 247.64838
+  pitch: 4.842593
+logoutlocation:
+  world: KutoLand
+  x: -2403.5
+  y: 65.0
+  z: 493.5
+  yaw: 75.149994
+  pitch: 10.650002
+homes:
+  home:
+    world: KutoLand
+    x: -2404.5
+    y: 65.0
+    z: 492.5
+    yaw: 75.149994
+    pitch: 10.650002

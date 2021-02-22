@@ -1,0 +1,21 @@
+lastAccountName: ELFANTAX
+timestamps:
+  login: 1612328365958
+  logout: 1612328407936
+  lastteleport: 1612162352365
+ipAddress: 98.179.228.241
+lastlocation:
+  world: KutoLand
+  x: -188.10167164528136
+  y: 62.0
+  z: 472.69999998807907
+  yaw: 39.121643
+  pitch: 7.4996223
+logoutlocation:
+  world: world
+  x: -2502.8225050503574
+  y: 88.0
+  z: 440.30000001192093
+  yaw: 118.509125
+  pitch: 29.549385
+homes: {}

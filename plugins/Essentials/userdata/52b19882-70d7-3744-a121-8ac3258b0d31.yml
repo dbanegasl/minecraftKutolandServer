@@ -1,0 +1,20 @@
+lastAccountName: KING
+timestamps:
+  login: 1610739852833
+  logout: 1610749837133
+  lastteleport: 1610749792719
+ipAddress: 181.203.125.24
+lastlocation:
+  world: KutoLand
+  x: -2485.949237749019
+  y: 70.02442408821369
+  z: 964.9777899394566
+  yaw: -284.8405
+  pitch: 15.077145
+logoutlocation:
+  world: KutoLand
+  x: -2321.3951512609497
+  y: 66.0
+  z: 583.1082983186981
+  yaw: 32.62857
+  pitch: 61.13161

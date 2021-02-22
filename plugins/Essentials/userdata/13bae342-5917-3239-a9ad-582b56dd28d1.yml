@@ -1,0 +1,28 @@
+lastAccountName: RAMIROXXDD
+timestamps:
+  login: 1611190521756
+  logout: 1611191452231
+  lastteleport: 1611187689629
+ipAddress: 181.112.8.78
+lastlocation:
+  world: world
+  x: -239.7308737734808
+  y: 66.0
+  z: 165.21262873843287
+  yaw: -344.25027
+  pitch: 25.500063
+logoutlocation:
+  world: KutoLand
+  x: -1400.718572554113
+  y: 69.5625
+  z: -1424.4611375658994
+  yaw: 127.19996
+  pitch: 10.050038
+homes:
+  home:
+    world: KutoLand
+    x: -1307.9384221403293
+    y: 70.0
+    z: -1406.5517491520584
+    yaw: 209.87698
+    pitch: 85.349976

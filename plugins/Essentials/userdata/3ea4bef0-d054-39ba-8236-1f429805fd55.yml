@@ -1,0 +1,28 @@
+lastAccountName: kutokonkon
+timestamps:
+  login: 1613998542076
+  logout: 1613998641224
+  lastteleport: 1613998587387
+ipAddress: 45.70.237.174
+logoutlocation:
+  world: KutoLand
+  x: -245.5
+  y: 68.0
+  z: 479.5
+  yaw: -101.700035
+  pitch: -13.650015
+lastlocation:
+  world: KutoLand
+  x: 116.77247573918201
+  y: 63.0
+  z: -733.8730311872123
+  yaw: 162.578
+  pitch: 24.075367
+homes:
+  home:
+    world: KutoLand
+    x: -185.62630137373876
+    y: 64.0
+    z: 507.66149843097094
+    yaw: -262.65186
+    pitch: 5.7254004

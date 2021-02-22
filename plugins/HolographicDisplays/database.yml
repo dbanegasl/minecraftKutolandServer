@@ -1,0 +1,61 @@
+presentacion:
+  location: world, 16.506, 67.200, 18.473
+  lines:
+  - '&2Hola!!! &bBienvenido a &5&lKutoLand2'
+  - '&lPuedes encontrar reglas y recomendaciones'
+  - '&lAqui debajo'
+  - '&li'
+  - '&lv'
+Ban:
+  location: world, 13.492, 67.200, 15.518
+  lines:
+  - '&4&lCualquier falta a las Normas'
+  - '&4&l Sera motivo de Ban'
+saludo2:
+  location: KutoLand, 267.475, 79.200, 402.508
+  lines:
+  - '&lAqui inicia tu aventura!!!'
+  - '&4&lpara regresar escribe...'
+  - '&2&l/spawn'
+diversion:
+  location: world, 19.532, 67.200, 15.511
+  lines:
+  - '&lRegla mas Importante... Divertirse :D'
+  - '&lY pasarla muy bien'
+tp:
+  location: world, 12.506, 66.000, 10.445
+  lines:
+  - '&lPara ir al survival pon...'
+  - '&3/mvtp KutoLand'
+teleport:
+  location: world, 16.515, 67.200, 10.494
+  lines:
+  - Para ir a algun jugador escribe...
+  - '&2&l/tpa [nombre]'
+proteccion:
+  location: world, 20.528, 66.200, 10.485
+  lines:
+  - '&1&lExiste piedras de protección'
+  - Si necesitas una... Pedir a Kuto...
+  - '&3Por Instagram'
+  - '&5Insta: &6KutoPlayGames'
+tumba:
+  location: world, 16.536, 66.075, 10.543
+  lines:
+  - Para ver tu tumba pon...
+  - '&2&l/graves'
+sethome:
+  location: world, 21.510, 66.200, 15.522
+  lines:
+  - Cuando tengas tu zona de casa pon...
+  - '&6&l/sethome'
+home:
+  location: world, 11.451, 66.200, 15.524
+  lines:
+  - Para ir a tu casa pon...
+  - '&6&l/home'
+PArkour:
+  location: world, 12.507, 65.200, 10.719
+  lines:
+  - Para ir al Parkour pon...
+  - '&l&4/mvtp Parkour'

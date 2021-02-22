@@ -1,0 +1,28 @@
+lastAccountName: JAACIEL
+timestamps:
+  login: 1613957304664
+  logout: 1613971590654
+  lastteleport: 1613969249793
+ipAddress: 187.136.103.15
+lastlocation:
+  world: world
+  x: 16.0
+  y: 64.0
+  z: 15.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: KutoLand
+  x: 23473.423464619103
+  y: 53.0
+  z: 25077.30000001192
+  yaw: -358.10596
+  pitch: 48.31584
+homes:
+  home:
+    world: KutoLand
+    x: 23457.604359948662
+    y: 50.0
+    z: 25090.476651912937
+    yaw: -249.06163
+    pitch: 21.449913

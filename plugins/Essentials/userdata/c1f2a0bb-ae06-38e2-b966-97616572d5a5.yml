@@ -1,0 +1,28 @@
+lastAccountName: Francisco410
+timestamps:
+  login: 1613335994703
+  logout: 1613336720531
+  lastteleport: 1613335104759
+ipAddress: 187.227.148.11
+lastlocation:
+  world: KutoLand
+  x: 116.12812650956027
+  y: 63.0
+  z: -740.7679496453402
+  yaw: -349.38892
+  pitch: 2.92027
+logoutlocation:
+  world: KutoLand
+  x: 707.821069404094
+  y: 63.0
+  z: 625.16908767426
+  yaw: 272.501
+  pitch: 42.540874
+homes:
+  home:
+    world: KutoLand
+    x: 683.8117169148428
+    y: 63.0
+    z: 610.0417155283261
+    yaw: 266.21042
+    pitch: 23.873322

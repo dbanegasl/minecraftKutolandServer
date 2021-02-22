@@ -1,0 +1,28 @@
+lastAccountName: duotics
+timestamps:
+  login: 1613932569223
+  lastteleport: 1613937747026
+  logout: 1613937766828
+ipAddress: 45.70.237.174
+lastlocation:
+  world: KutoLand
+  x: -447.5
+  y: 98.0
+  z: 360.5
+  yaw: -182.44983
+  pitch: 37.81977
+homes:
+  home:
+    world: KutoLand
+    x: -447.4140221444732
+    y: 98.0
+    z: 360.42544934234184
+    yaw: -182.44983
+    pitch: 37.81977
+logoutlocation:
+  world: KutoLand
+  x: -442.66102461394456
+  y: 99.0
+  z: 346.7523166355938
+  yaw: -198.94984
+  pitch: 10.669817

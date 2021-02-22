@@ -1,0 +1,28 @@
+lastAccountName: ElPerroBueno
+timestamps:
+  login: 1613829205463
+  logout: 1613831456236
+  lastteleport: 1613830635525
+ipAddress: 181.115.248.230
+lastlocation:
+  world: KutoLand
+  x: 2154.3829912523565
+  y: 70.0
+  z: -1864.8528441586982
+  yaw: 359.73145
+  pitch: 23.120285
+logoutlocation:
+  world: KutoLand
+  x: 444.55931380222603
+  y: 7.0
+  z: 363.9887918142438
+  yaw: 174.34851
+  pitch: 29.027058
+homes:
+  home:
+    world: KutoLand
+    x: 2153.062084163831
+    y: 70.0
+    z: -1862.7459810460284
+    yaw: 180.26917
+    pitch: 26.670673

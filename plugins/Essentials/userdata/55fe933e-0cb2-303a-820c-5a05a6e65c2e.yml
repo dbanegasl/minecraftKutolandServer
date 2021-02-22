@@ -1,0 +1,28 @@
+lastAccountName: elfoftot666
+timestamps:
+  login: 1612759469071
+  logout: 1612759741470
+  lastteleport: 1612669340997
+ipAddress: 187.152.137.147
+lastlocation:
+  world: KutoLand
+  x: 250.12760508897736
+  y: 67.0
+  z: 2681.1575550798157
+  yaw: 3.2614136
+  pitch: 12.403427
+logoutlocation:
+  world: KutoLand
+  x: 259.42940011977555
+  y: 67.0
+  z: 2618.301402145525
+  yaw: -15.388611
+  pitch: 10.454606
+homes:
+  home:
+    world: KutoLand
+    x: 266.91280719867
+    y: 67.0
+    z: 2649.3682684764435
+    yaw: -120.11808
+    pitch: 20.904903
