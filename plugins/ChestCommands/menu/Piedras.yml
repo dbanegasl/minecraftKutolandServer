@@ -78,7 +78,7 @@ Piedra3:
 
   POSITION-X: 7
   POSITION-Y: 2
-  NAME: '&eComprar Piedra de Proteccion Basica'
+  NAME: '&eComprar Piedra de Proteccion Grande'
   LORE:
     - 'Click para comprar.'
     - 'Dinero Requerido: &2$1.000.000'

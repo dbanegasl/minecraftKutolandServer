@@ -5,7 +5,7 @@ worlds:
     alias: ''
     color: WHITE
     style: NORMAL
-    pvp: 'true'
+    pvp: 'false'
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
