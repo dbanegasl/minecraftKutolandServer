@@ -121,9 +121,8 @@ messages:
 #----====[ Default Flags ]====----#
 # Flag list form worldguard : http://wiki.sk89q.com/wiki/WorldGuard/Regions/Flags
 flags:
-- 'greeting &7KarenProtect: &aEntering <player> protect &f"<name>&f" &f(&7<x>&9x&7<y>&9x&7<z>&f)'
-- 'farewell &7KarenProtect: &cLeavening <player> protect &f"<name>&f" &f(&7<x>&9x&7<y>&9x&7<z>&f)'
-- 'pvp deny'
+- 'greeting &7KarenProtect: &aEntrando a la zona de: <player> &f(&7<x>&9x&7<y>&9x&7<z>&f)'
+- 'farewell &7KarenProtect: &cSaliendo de la zona de: <player> &f(&7<x>&9x&7<y>&9x&7<z>&f)'
 
 #Auto remove(Beta):
 #Automatic renmove protection form innactive players (days)
@@ -231,7 +230,7 @@ silk_touch_drop_editor:
 #Example
 blocks:
   COAL_ORE:
-    name: '&a&lProteccion Basica 30x30'
+    name: '&a&lProteccion 30'
     size:
       x: 30
       y: 256
@@ -250,7 +249,7 @@ blocks:
       #NODROP: When player breaking protection block protection block is 'gone' (One time use)
       - 'nodrop; true'
   DIAMOND_ORE:
-    name: '&a&lProteccion Media 60x60'
+    name: '&a&lProteccion 60'
     size:
       x: 60
       y: 256
@@ -269,7 +268,7 @@ blocks:
       #NODROP: When player breaking protection block protection block is 'gone' (One time use)
       - 'nodrop; true'
   QUARTZ_BLOCK:
-    name: '&a&lProteccion Grande 90x90'
+    name: '&a&lProteccion 90'
     size:
       x: 90
       y: 256
