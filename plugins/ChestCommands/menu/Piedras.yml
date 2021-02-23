@@ -1,0 +1,88 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # REQUIRED
+  # Appears as the title of the menu.
+  name: '&1&lPiedras de Proteccion'
+
+  # REQUIRED
+  # The number of rows in the menu.
+  rows: 3
+
+  # OPTIONAL
+  # Set which commands a player can execute to open the menu.
+  commands:
+  - 'proteccion'
+
+  # OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have placeholders in icon descriptions.
+  auto-refresh: 5
+
+  # OPTIONAL
+  # These actions will be executed when the menu is opened.
+  # Supports all the icon action types.
+  open-actions:
+  - 'tell: &eYou opened the example menu.'
+
+  # OPTIONAL
+  # The menu will open only when right-clicking with a compass.
+  open-with-item:
+    material: compass
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ICONS        #
+#+                  +#
+######################
+
+
+Piedra1:
+  MATERIAL: Coal_ore
+
+  POSITION-X: 3
+  POSITION-Y: 2
+  NAME: '&eComprar Piedra de Proteccion Basica'
+  LORE:
+    - 'Click para comprar.'
+    - 'Dinero Requerido: &2$50.000'
+    - 'Tienes: &2{money}'
+  ACTIONS:
+    - 'console: kp give COAL_ORE {player}'
+  PRICE: 50000
+
+Piedra2:
+  MATERIAL: Diamond_ore
+
+  POSITION-X: 5
+  POSITION-Y: 2
+  NAME: '&eComprar Piedra de Proteccion Media'
+  LORE:
+    - 'Click para comprar.'
+    - 'Dinero Requerido: &2$100.000'
+    - 'Tienes: &2{money}'
+  ACTIONS:
+    - 'console: kp give DIAMOND_ORE {player}'
+  PRICE: 100000
+
+Piedra3:
+  MATERIAL: Quartz_block
+
+  POSITION-X: 7
+  POSITION-Y: 2
+  NAME: '&eComprar Piedra de Proteccion Basica'
+  LORE:
+    - 'Click para comprar.'
+    - 'Dinero Requerido: &2$1.000.000'
+    - 'Tienes: &2{money}'
+  ACTIONS:
+    - 'console: kp give QUARTZ_BLOCK {player}'
+  PRICE: 1000000
