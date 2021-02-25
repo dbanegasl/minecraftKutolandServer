@@ -24,15 +24,15 @@ messages:
   block_limit: '&cYou cannot place more protect, You have reached the limit!'
   overlaps: '&cYou cannot place a protection here as it overlaps another owned region!'
   place_first: '&cPlace a protection first before placing/breaking any blocks!'
-  created: '&aProtection created!'
+  created: '&aProtection creada... Si deseas Agregar a alguien puedes usar: &f&l/kp add [nombre]!'
   target_not_online: '&cPlayer <player> is not online!'
-  deny_protect: '&cYou cannot place a protection in this area!'
+  deny_protect: '&cNo puedes poner una proteccion en esta zona!'
   block_not_found: '&cCannot found block id (<id>) in the config file!'
-  world_disable: '&cSorry! Karen Protect is disabled in this world!'
+  world_disable: '&cSorry! Las Protecciones estan desactivadas en este mundo!'
   block_give: '&aAdded block id (<id>) to <player>!'
-  remove: '&aProtection removed!'
-  remove_nodrop: '&aProtection removed! &c(Protection is gone because of nodrop settings)'
-  require_player: '&cThis command required player name!'
+  remove: '&aProtection Destruida!'
+  remove_nodrop: '&aProtection Destruida! &c(Desaparecio la Proteccion!)'
+  require_player: '&cEste comando necesita nombre de Jugador!'
   flag_set: '&bSet flag &e<flag> &bto &a<value>&b '
   flag_error: '&cError! cannot set &e<flag> &cto &e<value>. &cPlease check your command and try again!'
   flag_no_perm: '&cYou do not have permission to use flag command. &7(&akarenprotect&7.&cflags&7)'
@@ -40,19 +40,19 @@ messages:
   flag_deny: '&cYou cannot use flag command in this area!'
   flag_help: '&cUsage: &f/kp flag <flagname> <flagvalue>'
   flag_not_found: '&cCannot found flag id "<flag>" this flag may be disabled! &7&o(Default enabled flag : use, pvp, greeting, farewell and mob-spawning)'
-  no_perm: '&cYou do not have permission to use this command'
+  no_perm: '&cNo tienes permitido usra este comando!'
   priority_set: '&aPriority has been set to &7<value>&a!'
   priority_view: '&ePriority: &f<value>'
   priority_deny: '&cYou cannot use priority command in this area!'
   priority_no_perm: '&cYou do not have permission to use priority comand. &7(&akarenprotect&7.&cpriority&7)'
   owner_deny: '&cYou cannot use owner command in this area!'
-  owner_added: '&e<player> &aadded for being an owner!'
-  owner_removed: '&e<player> &aremove from being an owner!'
+  owner_added: '&e<player> &aañadido como propietario!'
+  owner_removed: '&e<player> &removido como propietario!'
   owner_no_perm: '&cYou do not have permission to use owner command. &7(&akarenprotect&7.&cowners&7)'
-  member_deny: '&cYou cannot use member command in this area!'
-  member_added: '&e<player> &aadded!'
-  member_removed: '&e<player> &aremoved!'
-  member_no_perm: '&cYou do not have permission to use member command. &7(&akarenprotect&7.&cmembers&7)'
+  member_deny: '&cNo puedes usar el comando en esta area!'
+  member_added: '&e<player> &aañadido!'
+  member_removed: '&e<player> &aremovido!'
+  member_no_perm: '&cNo tienes permiso de usar este comando. &7(&akarenprotect&7.&cmembers&7)'
   protection_take: '&aYou take the protection from x: <x> y: <y> z: <z> !'
   protection_take_deny: '&cYou cannot use take command here!'
   protection_take_not_found: '&cProtection not found at x: <x> y: <y> z: <z>, But it got removed!'
@@ -65,10 +65,10 @@ messages:
   cleanup_usage: '&cUsage: &7/kp cleanup <days>'
   banded: '&cBanned'
   not_banded: '&aNot banned'
-  hide: '&aThis protection is now disappear!'
-  hide_already: '&cThis protection is already hide'
-  unhide: '&aThis protection is now reappear'
-  unhide_already: '&cThis protection is already unhide'
+  hide: '&aLa Proteccion ya no esta visible!'
+  hide_already: '&cLa proteccion ya no esta visible'
+  unhide: '&aLa Proteccion esta Visible'
+  unhide_already: '&cLa proteccion ya esta visible'
   hide_no_perm: '&cYou do not have permission to use hide command. &7(&akarenprotect&7.&chide&7)'
   hide_deny: '&cYou cannot use hide command in this area!'
   unhide_no_perm: '&cYou do not have permission to use hide command. &7(&akarenprotect&7.&cunhide&7)'
@@ -152,8 +152,9 @@ liquid_protect:
 
 #Disable KarenProtect in a specific world by adding your world name.
 disable_worlds:
-- no_protection_place_world
-
+- world
+- Pruebas
+- Parkour
 #List your specific world in this list for preventing players from placing/breaking blocks without protection.
 worlds_protect_place_frist:
 - world_need_to_protect
@@ -165,7 +166,7 @@ worlds_protect_place_frist:
 blockplacecooldown:
   enable: false
   time: 30
-  message: '&aPlease wait <time> seconds to place a protection block again!'
+  message: '&aPorfavor espera <time> segundos para poner otro bloque de Proteccion!'
 
 
 #Silk Touch Drop Editor
