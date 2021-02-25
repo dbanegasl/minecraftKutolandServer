@@ -38,7 +38,7 @@ settings:
   ignoreKeepInventory: false # Should the plugin ignore the keep inventory gamerule.
 
   break: true # Can graves be broken.
-  explode: true # Can graves be blown up.
+  explode: false # Can graves be blown up.
 
   createPvP: true # Create a grave if a player dies to another player.
   createPvE: true # Create a grave if a player dies to a mob.
@@ -58,19 +58,19 @@ settings:
   ############
   # Messages #
   ############
-  lootMessage: "&8[&7Graves&8] &fGrave looted!"
-  maxGravesMessage: "&8[&7Graves&8] &fA grave was not created, you have too many graves!"
-  buildDeniedMessage: "&8[&7Graves&8] &fA grave was not created because you can't build there!"
+  lootMessage: "&8[&7Graves&8] &fTumba Recogida!"
+  maxGravesMessage: "&8[&7Graves&8] &fNo se ha creado una tumba... Ya tienes Muchas!"
+  buildDeniedMessage: "&8[&7Graves&8] &fLa tumba no se ha creado porque no puede no puedes construir aqui!"
   failureMessage: "&8[&7Graves&8] &fA grave was unable to be placed! Item's dropped on ground."
-  protectMessage: "&8[&7Graves&8] &fThis grave is protected!"
-  deathMessage: "&8[&7Graves&8] &fYou have a death chest at &7$x&fx, &7$y&fy, &7$z&fz that lasts for &7$time&f!"
+  protectMessage: "&8[&7Graves&8] &fEsta tumba esta protegida!"
+  deathMessage: "&8[&7Graves&8] &fTienes una Tumba en: &7$x&fx, &7$y&fy, &7$z&fz Estará ahi por: &7$time&f!"
   tokenNoTokenMessage: "&8[&7Graves&8] &fA grave was not created because you didn't have a &7$name&f!"
-  teleportMessage: "&8[&7Graves&8] &fYou teleported to your grave for &7$money&f!"
+  teleportMessage: "&8[&7Graves&8] &fTe has teletrasportado a tu tumba por: &7$money&f!"
   teleportTopMessage: "&8[&7Graves&8] &fGrave was in an unsafe location, you have been teleported nearby."
   teleportFailedMessage: "&8[&7Graves&8] &fTeleport failed! Teleport location is unsafe!"
   teleportDisabledMessage: "&8[&7Graves&8] &fGrave teleportation is disabled!"
   expMessage: "&8[&7Graves&8] &fLooted &7$level &flevels from grave!"
-  notEnoughMoneyMessage: "&8[&7Graves&8] &fYou don't have enough money! You need &7$money&f!"
+  notEnoughMoneyMessage: "&8[&7Graves&8] &fNo tienes Suficiente dinero! Necesitas &7$money&f!"
   ignoreMessage: "&8[&7Graves&8] &fA grave was not created because you died in &7$block&f!"
   permissionDeniedMessage: "&8[&7Graves&8] &fPermission Denied!"
   protectProtectedMessage: "&c&lProtected"
@@ -103,14 +103,14 @@ settings:
   #######
   # GUI #
   #######
-  guiTitle: "$entity's Graves"
-  guiGrave: "&fGrave: &7$x&fx, &7$y&fy, &7$z&fz, &7$world"
+  guiTitle: "Tumba de: $entity"
+  guiGrave: "&fTumba en: &7$x&fx, &7$y&fy, &7$z&fz, &7$world"
   guiEmpty: "&8[&7Graves&8] &fYou don't have any graves!"
   guiLore:
     #- "&7$protect" # If you are using grave protection you might want to allow the player to see if their grave is protected. And tell them how to change the protection.
     #- "&7Right click to change protection"
     - "&7Items: &f$item"
-    - "&7Levels: &f$level"
+    - "&7Niveles: &f$level"
 
   #############
   # Holograms #
@@ -120,9 +120,9 @@ settings:
   hologramAutoCleanup: true # Should the server auto clean up graves if they are broken.
   hologramLines:
     #- "&7$protect" # Show if a grave protected.
-    - "&7$entity's &fGrave"
-    - "&7$itemCount &fItems &f/ &7$level &fLevels"
-    - "&7$time &fleft"
+    - "&f&lTumba de: &7$entity"
+    - "&7$itemCount &fItems &f/ &7$level &fNiveles"
+    - "&fQuedan &7$time"
 
   ##############
   # Protection #
@@ -168,7 +168,7 @@ settings:
   #################
   # Teleportation #
   #################
-  teleport: false # Can the player teleport to their grave from the Graves GUI.
+  teleport: true # Can the player teleport to their grave from the Graves GUI.
   teleportCost: 500 # How much it costs to teleport to a grave, you need Vault for this.
   teleportUnsafe: false # Should players be allowed to always teleport to a grave even if unsafe.
   teleportTop: true # If the grave is in a unsafe location, should the player be teleported to the top. If this fails then the fail message will show.
