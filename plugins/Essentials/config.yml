@@ -244,7 +244,7 @@ player-commands:
   - chat.shout
   - chat.question
   - clearinventory
-  - compass
+  #- compass
   - depth
   - delhome
   - getpos
