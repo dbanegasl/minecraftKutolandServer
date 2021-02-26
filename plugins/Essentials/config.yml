@@ -705,7 +705,7 @@ confirm-home-overwrite: false
 # You can control the values of items that are sold to the server by using the /setworth command.
 
 # Defines the balance with which new players begin. Defaults to 0.
-starting-balance: 1000
+starting-balance: 500
 
 # Defines the cost to use the given commands PER USE.
 # Some commands like /repair have sub-costs, check the wiki for more information.
@@ -730,7 +730,7 @@ max-money: 10000000000000
 
 # Set the minimum amount of money a player can have (must be above the negative of max-money).
 # Setting this to 0, will disable overdrafts/loans completely.  Users need 'essentials.eco.loan' perm to go below 0.
-min-money: -10000
+min-money: 0
 
 # Enable this to log all interactions with trade/buy/sell signs and sell command.
 economy-log-enabled: false
